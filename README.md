@@ -21,7 +21,7 @@ notes:
   
 Links for downloads:  
 * [zju pan](**) (links will be released later)
-* [baidu](https://pan.baidu.com/s/1JDUgInzgikZ3CJgf3OHXTQ) password: 1mna 
+* [baiduyun](https://pan.baidu.com/s/1JDUgInzgikZ3CJgf3OHXTQ) password: 1mna 
 
 
 # Train
@@ -29,7 +29,7 @@ Links for downloads:
 1. download dataset
 2. download codes & install requirements
 ```
-git clone xxx
+git clone https://github.com/YcShentu/CoralSegmentation.git
 cd CoralSegmentation
 pip install -r requirements.txt
 ```
@@ -72,9 +72,11 @@ although he is not among the authors of the article.
 
 # Citation
 Please consider citing the corresponding publication if you use this work in an academic context:  
+```
 @{sarlin2019coarse,
   title={Development of Coral Investigation System Based on Semantic Segmentation of Single-Channel Images},
   author={Hong Song, Syed Raza Mehdi, Yangfan Zhang, Yichun Shentu, etc},
   booktitle={sensors},
   year={2021}
 }
+```
